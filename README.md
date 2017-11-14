@@ -1,1 +1,1 @@
-KiCAD
+KiCad repository for footprints and librarys
